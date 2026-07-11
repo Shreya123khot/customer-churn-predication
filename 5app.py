@@ -65,21 +65,7 @@ st.sidebar.title("📊 Customer Churn")
 st.sidebar.info("""
 Machine Learning Project
 
-Algorithm :
-Random Forest
 
-Developed Using
-
-✔ Python
-
-✔ Streamlit
-
-✔ Scikit Learn
-
-✔ Pandas
-
-✔ NumPy
-""")
 
 st.markdown("<p class='title'>Customer Churn Prediction System</p>",unsafe_allow_html=True)
 
