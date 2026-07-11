@@ -345,5 +345,3 @@ if st.button("🔍 Predict Customer Churn"):
         value=f"{stay_probability:.2f}%"
     )
 
-    st.balloons()
-
