@@ -19,7 +19,7 @@ st.set_page_config(
 # -------------------------------
 
 try:
-    model = pickle.load(open("model.pkl", "rb"))
+    model = pickle.load(open("cutomer_churn_model.pkl", "rb"))
     columns = pickle.load(open("columns.pkl", "rb"))
 
 except Exception as e:
