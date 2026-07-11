@@ -347,19 +347,3 @@ if st.button("🔍 Predict Customer Churn"):
 
     st.balloons()
 
-st.write("---")
-
-st.markdown(
-"""
-<center>
-
-### 🤖 Customer Churn Prediction System
-
-Developed using
-
-Python | Streamlit | Random Forest | Machine Learning
-
-</center>
-""",
-unsafe_allow_html=True
-)
